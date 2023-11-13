@@ -6,11 +6,10 @@
   </head>
   
 </body>
-
   <div class="exp-header">
+        <h1>Helena Shimizu</h1></div>
   <img src="https://www.helenashimizu.com/uploads/4/4/6/0/44608943/published/photo-on-9-26-23-at-10-45-am.jpg?1697742054"/>
 
-    <h1>Helena Shimizu</h1></div>
   <p>Digital Creative Professional with over 20 years experience.</p>
       </div>
   
