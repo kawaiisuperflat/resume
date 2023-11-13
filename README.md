@@ -5,7 +5,6 @@
   <link rel="stylesheet" href="style.css"/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Helena Shimizu Resume</title>
 </head>
   
 </body>
@@ -14,7 +13,6 @@
   <img src="https://www.helenashimizu.com/uploads/4/4/6/0/44608943/published/photo-on-9-26-23-at-10-45-am.jpg?1697742054"/>
   
   <div class="exp-header">
-  <h3>About</h3>
   <p>Digital Creative Professional with over 20 years experience.</p>
       </div>
   
