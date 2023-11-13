@@ -4,6 +4,7 @@
   <link rel="stylesheet" href="style.css"/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
+  <title>Helena Shimizu Resume</title>
 </head>
   
 </body>
@@ -63,11 +64,9 @@ Demonstrated expertise in crafting print materials that effectively promote mult
   <ul>The Art Institutes International - Minneapolis, MN | Dean's List, Honors graduate</p>
     </div>
     
-    <div class="footer">
-      <footer>
-      <h6> ©Helena Shimizu November 12, 2023.</p>
-          </div>
+<div class="footer">
+  <h6>©Helena Shimizu November 12, 2023.</h6>
+    </div>
   
  <body>
-</html>
-  
+   </html>
