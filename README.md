@@ -3,16 +3,14 @@
 <head>
   
   <link rel="stylesheet" href="style.css"/>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-</head>
+  </head>
   
 </body>
-<div>
-  <h1>Helena Shimizu</h1>
-  <img src="https://www.helenashimizu.com/uploads/4/4/6/0/44608943/published/photo-on-9-26-23-at-10-45-am.jpg?1697742054"/>
-  
+
   <div class="exp-header">
+  <img src="https://www.helenashimizu.com/uploads/4/4/6/0/44608943/published/photo-on-9-26-23-at-10-45-am.jpg?1697742054"/>
+
+    <h1>Helena Shimizu</h1></div>
   <p>Digital Creative Professional with over 20 years experience.</p>
       </div>
   
@@ -67,5 +65,5 @@ Demonstrated expertise in crafting print materials that effectively promote mult
   <h6>©Helena Shimizu November 12, 2023.</h6>
     </div>
   
- <body>
+ </body>
    </html>
